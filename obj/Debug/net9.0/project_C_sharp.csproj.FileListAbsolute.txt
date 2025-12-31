@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\project_C_sharp\bin\Debug\net9.0\project_C_sharp.exe
+C:\Users\Administrator\Desktop\project_C_sharp\bin\Debug\net9.0\project_C_sharp.deps.json
+C:\Users\Administrator\Desktop\project_C_sharp\bin\Debug\net9.0\project_C_sharp.runtimeconfig.json
+C:\Users\Administrator\Desktop\project_C_sharp\bin\Debug\net9.0\project_C_sharp.dll
+C:\Users\Administrator\Desktop\project_C_sharp\bin\Debug\net9.0\project_C_sharp.pdb
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.dll
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\refint\project_C_sharp.dll
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.pdb
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\project_C_sharp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\project_C_sharp\obj\Debug\net9.0\ref\project_C_sharp.dll
